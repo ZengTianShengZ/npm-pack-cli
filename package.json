@@ -1,0 +1,25 @@
+{
+  "name": "npm-pack-cli",
+  "version": "1.0.0",
+  "description": "npm pack cli",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "npm-pack-cli": "./bin/npm.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZengTianShengZ/npm-pack-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZengTianShengZ/npm-pack-cli/issues"
+  },
+  "homepage": "https://github.com/ZengTianShengZ/npm-pack-cli#readme",
+  "dependencies": {
+    "commander": "^2.17.1"
+  }
+}
