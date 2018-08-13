@@ -1,13 +1,13 @@
 {
-  "name": "npm-pack-cli",
-  "version": "1.0.0",
+  "name": "qts-cli",
+  "version": "1.0.4",
   "description": "npm pack cli",
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "npm-pack-cli": "./bin/npm.js"
+    "qts-cli": "./bin/npm.js"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,7 @@
   "dependencies": {
     "commander": "^2.17.1",
     "download-git-repo": "^1.0.2",
-    "ora": "^3.0.0"
+    "ora": "^3.0.0",
+    "simple-git": "^1.96.0"
   }
 }
