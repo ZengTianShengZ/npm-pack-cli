@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/ZengTianShengZ/npm-pack-cli#readme",
   "dependencies": {
-    "commander": "^2.17.1"
+    "commander": "^2.17.1",
+    "download-git-repo": "^1.0.2",
+    "ora": "^3.0.0"
   }
 }
