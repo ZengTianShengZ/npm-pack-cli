@@ -1,6 +1,6 @@
 {
-  "name": "qts-cli",
-  "version": "1.0.5",
+  "name": "znpm-cli",
+  "version": "0.2.0",
   "description": "npm pack cli",
   "main": "lib/index.js",
   "scripts": {
@@ -13,8 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/ZengTianShengZ/npm-pack-cli.git"
   },
-  "author": "",
-  "license": "ISC",
+  "keywords": "znpm-cli",
+  "author": "ZengTianShengZ",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ZengTianShengZ/npm-pack-cli/issues"
   },
