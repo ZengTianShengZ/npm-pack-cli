@@ -1,9 +1,10 @@
 ### znpm-cli 脚手架
 
-<img src="https://img.shields.io/npm/v/znpm-cli.svg?style=flat-square" alt="vuepack" width="120" height='20'>
-<img src="https://img.shields.io/david/cnpm/npminstall.svg?style=flat-square" alt="vuepack" width="120" height='20'>
-<img src="https://img.shields.io/npm/dm/znpm-cli.svg?style=flat-square" alt="vuepack" width="120" height='20'>
-<img src="https://img.shields.io/npm/l/znpm-cli.svg" alt="vuepack" width="110" height='20'>
+<p align="left">
+<a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/v/znpm-cli.svg?style=flat-square" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/v/znpm-cli.svg" alt="Version"></a>
+<a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/l/znpm-cli.svg" alt="License"></a>
+</p>
 
 在发 npm 包的时候需要自己起个项目，并搭建各个目录，做单元测试，如果用到了ES6的语法还需利用babel做下语法转换，发包的时候还需要压缩下代码。过程有点繁琐。
 
