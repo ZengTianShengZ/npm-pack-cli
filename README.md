@@ -1,7 +1,7 @@
 ### znpm-cli 脚手架
 
 <p align="left">
-<a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/v/znpm-cli.svg?style=flat-square" alt="Downloads"></a>
+<a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/dm/znpm-cli.svg" alt="Downloads"></a>
 <a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/v/znpm-cli.svg" alt="Version"></a>
 <a href="https://www.npmjs.com/package/znpm-cli"><img src="https://img.shields.io/npm/l/znpm-cli.svg" alt="License"></a>
 </p>
