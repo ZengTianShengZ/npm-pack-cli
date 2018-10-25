@@ -13,7 +13,7 @@
 #### 使用
 
 ```
-cnpm i znpm-cli -g  // 需要全局安装npm
+npm i znpm-cli -g  // 需要全局安装npm
 znpm-cli init       // 在当前目录下初始化工程
 ```
 
